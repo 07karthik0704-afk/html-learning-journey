@@ -1,7 +1,3 @@
-Let’s go 🔥 you’re covering all the right stuff. I’ll turn this into **clean revision notes** you can quickly revise anytime 👇
-
----
-
 # 📘 HTML Notes – Text Formatting Tags
 
 ---
