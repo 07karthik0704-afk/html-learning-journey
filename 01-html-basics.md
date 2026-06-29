@@ -83,6 +83,53 @@
 * View Page Source
 * Inspect (DevTools)
 
+  # View Source vs Inspect
+
+## 1. View Page Source
+
+* Shows the **original HTML** file loaded by the browser.
+* Used to view the source code of the webpage.
+* It is **read-only**.
+
+**Example:**
+
+```html
+<h1>Hello</h1>
+```
+
+---
+
+## 2. Inspect (Developer Tools)
+
+* Shows the **live DOM (Document Object Model)** created by the browser.
+* Lets you inspect HTML, CSS, and JavaScript.
+* You can temporarily edit the page for testing.
+
+**Flow:**
+
+```
+HTML File
+    ↓
+Browser
+    ↓
+DOM Tree
+    ↓
+Webpage
+```
+
+---
+
+## View Source vs Inspect
+
+| View Source         | Inspect                   |
+| ------------------- | ------------------------- |
+| Shows original HTML | Shows live DOM            |
+| Read-only           | Temporary editing allowed |
+| Shows source file   | Used for debugging        |
+
+> **Note:** Changes made in **Inspect** are temporary and disappear after refreshing the page.
+
+
 ---
 
 ## 🔠 Headings
